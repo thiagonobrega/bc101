@@ -243,7 +243,7 @@ graph LR
 
 ---
 ## Detalhe do encadeamento
-![w:1000 center](blockchain_detail.png)
+![w:1000 center](https://raw.githubusercontent.com/thiagonobrega/bc101/master/uepb/slides_src/blockchain_detail.png)
 
 [Exemplo do encadeamento](https://andersbrownworth.com/blockchain/blockchain)
 
@@ -418,7 +418,7 @@ Privacidade dos dados
 
 ---
 
-![w:800 center](vazao_blockchain.png)
+![w:800 center](https://raw.githubusercontent.com/thiagonobrega/bc101/master/uepb/slides_src/vazao_blockchain.png)
 > [9]
 
 
