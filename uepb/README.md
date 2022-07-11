@@ -13,7 +13,9 @@ Minicurso introdutorio a técnologia blockchain. Durante o cursos serão apresen
 ## Referências
 
 **Livros**
+
 A. Bitcoin and Cryptocurrency Technologies  <https://bitcoinbook.cs.princeton.edu/>
+
 B. Ethereum Whitepaper <https://ethereum.org/en/whitepaper/>
 
 ### Artigos
