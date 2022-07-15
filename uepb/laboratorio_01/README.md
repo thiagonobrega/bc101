@@ -24,7 +24,7 @@ zerar();
 votar(numero)
 ```
 
-Caso o eleitor vote com um numéro não cadastrado o voto sera computado como nulo
+Caso o eleitor vote com um número não cadastrado o voto sera computado como nulo
 
 - O sistema tem que ter um método que retorne o número do candidato vencedor
 ```
