@@ -32,7 +32,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 # Blockchain
 
-▪ Concept of a world computer
+▪ Conceitos de um computador global (world computer)
 > Permissionaria (permissioned)
 > Não permissionaria
 
@@ -147,7 +147,7 @@ Maquina de Estado
 ---
 ### Contratos Inteligentes
 
-![w:900 center](https://cdn.cryptotips.eu/wp-content/uploads/2020/08/example-how-a-smart-contract-works.png)
+![w:900 center](https://www.edureka.co/blog/wp-content/uploads/2018/03/Smart-Contracts-working-smart-contracts-edureka.png)
 
 ---
 
